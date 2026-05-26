@@ -11,3 +11,11 @@ An advanced, intelligent personal financial tracking ecosystem built to secure u
 1. **Continuous Telemetry Tracking:** Client-side metric evaluation to recognize erratic navigation signatures.
 2. **Cognitive Shield Mode:** Instantly masks active ledger data ([REDACTED_BY_COGNITIVE_SHIELD]) upon systemic risk verification to enforce zero-trust privacy.
 3. **Ethical AI Integration:** Incorporates a built-in Audit Engine allowing transparent decision tracking without logging sensitive identity markers.
+## 🛠️ Installation and Setup
+
+### 📱 1. Frontend Setup
+Navigate to the frontend directory, install dependencies, and start the development server:
+```bash
+cd frontend
+npm install
+npm run dev
